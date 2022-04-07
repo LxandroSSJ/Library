@@ -1,0 +1,5 @@
+name: Library
+version: ${project.parent.version}
+api-version: 1.16
+author: LeandroSSJ
+main: dev.negative.library.plugin.Library
